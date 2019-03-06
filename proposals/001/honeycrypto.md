@@ -1,5 +1,5 @@
 # RFP: Semux Premine burning strategy
-version 1, edited on 06 March 2019
+version 2, edited on 06 March 2019
 by honeycrypto
 
 ## Abstract
@@ -34,8 +34,11 @@ TOTAL: **480K SEM per year**
 #### Listings 
 Community is constantly asking for more exchanges. 
 While we have some budget already for tier-3 exchanges (ie: the famous 4.2mil DOTs for Cryptopia), I'll propose to try to get 
-listed in Binance DEX considering it a tier-1 exchange. From public AMA with CZ_binance we know that listing in this DEX may cost as high 
-as $100K USD or 500K SEM.
+listed in Binance DEX considering it a tier-1 exchange. From public AMA with CZ_binance we know that listing in this DEX may cost as high as $100K USD or 500K SEM.
+
+Please note that here is no guarantee neither of listing, nor of the listing fee size. The mentioned choices come from community feedback in our official Discord channel. There is a high chance that Semux won't ever be listed in any of the mentioned above exchanges if they won't live up to our expectations and goals, or if Semux project won't pass their requirements.
+
+Mentioned budget will be used to pay the integration costs of non-standard Semux blockchain of any exchanges ready for partnership with Semux project.
 
 TOTAL: **500K SEM**
 
@@ -49,8 +52,7 @@ Basic online marketing will require $2K USD monthly or
 Advanced marketing (hire PR team, pay to crypto blogs, magazines, twitters): $6K USD monthly or **360K SEM per year**
 
 #### Semux Developer Program 
-Semux tech becomes mature enough and now we need to think about further adoption. For me personally, this is the most exciting  
-goal of our roadmap. I'd like to see Semux Foundation funding up to 10 apps/games/projects to adopt Semux as their main currency. 
+Semux tech becomes mature enough and now we need to think about further adoption. For me personally, this is the most exciting goal of our roadmap. I'd like to see Semux Foundation funding up to 10 apps/games/projects to adopt Semux as their main currency. 
 With $10K USD per project, this will require up to **500K SEM** budget if we will have enough of submissions that can 
 pass our requirements and quality checks.
 
