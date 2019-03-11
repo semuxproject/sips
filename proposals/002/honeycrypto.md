@@ -59,6 +59,7 @@ This proposal will lead to approx 28,2 million SEM created by 2031 (excluding th
 | 2032 | 0.00% |
 
 While in the long run this proposal will reduce the total SEM supply almost by 3 times, it's easy to see that for many years the inflation rate will stay almost as high as in existing codebase: 
+
 | Year | Currently | New proposal |
 |---|---|---|
 | 2019 | 31.70% | 31.70% |
@@ -89,6 +90,7 @@ Conclusion: all those models don't solve the problem of high inflation for the n
 I've got surprisingly interesting results when simulated infinite supply with constant and low yearly inflation. Here is the example with approx 2% per year inflation. Block reward starts at 0.183876845 SEM per block and will be rising very slowly each year. By 2040 block reward will reach 0.284519616 SEM and circulating supply will rise from 10M SEM to approx 15M in 20 years.
 
 ![supply curve 4](https://semux.info/img/rfps/proposal-03.png)
+
 | Year | Inflation |
 |---|---|
 | 2019 | 1.94% |
@@ -103,12 +105,12 @@ This is a major change, so I'd propose to give more than enough time to validato
 
 In this case we will get a higher initial supply (due to +2.5M SEM minted at 3 SEM/block reward for the rest of 2019) and slightly higher initial block reward: 
 
-![supply curve 4](https://semux.info/img/rfps/proposal-03-a.png)
+![supply curve 5](https://semux.info/img/rfps/proposal-03-a.png)
 
 #### Some thoughts on premine and RFP-001
 And finally, we can consider RFP-001 and the premine of Semux Foundation which will likely be between 3.5M SEM and 5M SEM. Here is the idea of how the supply curve will look like if we activate this proposal of max 2% per year inflation at block height #2,016,000 considering the initial supply of 17.1M coins (9.6M exists + 2.5M to be mined in 2019 + up to 5M Premine): 
 
-![supply curve 4](https://semux.info/img/rfps/proposal-03-b.png)
+![supply curve 6](https://semux.info/img/rfps/proposal-03-b.png)
 
 | Year | Inflation |
 |---|---|
@@ -116,10 +118,11 @@ And finally, we can consider RFP-001 and the premine of Semux Foundation which w
 | 2020 | 1.94% |
 | ... | ... |
 | 2100+ | 1.94% |
+
 ** _it's lower than in existing codebase (31.70%) and proposal by semux (31.70%) because this time we counted also up to 5M SEM of premine in circulating supply. Obviously, this should be done in all 3 cases so in 2019 it's either 31.70% (excluding premine) or 20.90% (counting up to 5M SEM of premine)._
 
 In this model block reward starts from 0.32 SEM per block in 2020 and it will hit 1 SEM / block in 2076. 2 SEM / block in the year 2111. 
 
 By the year 2100 there will be approx 85 million SEM circulating. The big picture: 
 
-![supply curve 4](https://semux.info/img/rfps/proposal-03-c.png)
+![supply curve 7](https://semux.info/img/rfps/proposal-03-c.png)
