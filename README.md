@@ -1,4 +1,4 @@
-# SIPs
+# Semux Improvement Proposals
 
 Semux Improvement Proposals (SIPs) describe standards for the Semux platform, including core protocol specifications, client APIs, and contract standards.
 
@@ -13,5 +13,5 @@ Semux Improvement Proposals (SIPs) describe standards for the Semux platform, in
 
 |#|Name|Date|Status|
 |---|---|---|------|
-|2|[Premine Burning Strategy](./proposals/2.md)|06 March 2019|Final|
-|3|[Adjusting the Supply Curve](./proposals/3.md)|06 March 2019|Final|
+|SIP-0002|[Premine Burning Strategy](./sip-0002)|06 March 2019|Final|
+|SIP-0003|[Adjusting the Supply Curve](./sip-0003)|06 March 2019|Final|
