@@ -1,6 +1,13 @@
-# RFP: Adjusting the Supply Curve
-version 1, edited on 11 March 2019
-by honeycrypto
+# SIP-0003: Adjust the Supply Curve
+
+```
+Number:  SIP-0003
+Title:   Adjust the Supply Curve
+Type:    Informational
+Status:  Accepted
+Authors: honeycrypto <honeycrypto@tuta.io>
+Created: 2019-03-11
+```
 
 ## Abstract
 

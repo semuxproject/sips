@@ -11,7 +11,8 @@ Semux Improvement Proposals (SIPs) describe standards for the Semux platform, in
 
 ## Proposals
 
-|#|Name|Date|Status|
+|Number|Title|Type|Status|
 |---|---|---|------|
-|SIP-0002|[Premine Burning Strategy](./sip-0002)|06 March 2019|Final|
-|SIP-0003|[Adjusting the Supply Curve](./sip-0003)|06 March 2019|Final|
+|[SIP-0000](./sip-0000)|SIP Template|Informational|Accepted|
+|[SIP-0002](./sip-0002)|Premine Burning Strategy|Informational|Accepted|
+|[SIP-0003](./sip-0003)|Adjust the Supply Curve|Informational|Accepted|

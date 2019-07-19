@@ -1,6 +1,13 @@
-# RFP: Semux Premine burning strategy
-version 2, edited on 06 March 2019
-by honeycrypto
+# SIP-0002: Semux Premine burning strategy
+
+```
+Number:  SIP-0002
+Title:   Semux Premine burning strategy
+Type:    Informational
+Status:  Accepted
+Authors: honeycrypto <honeycrypto@tuta.io>
+Created: 2019-03-06
+```
 
 ## Abstract
 Major part of the existing cryptocurrencies have premine, proven insta-mine, funds from ICO, private sales 
